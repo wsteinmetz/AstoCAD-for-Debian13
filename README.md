@@ -1,7 +1,7 @@
 # AstoCAD-for-Debian13
 AstoCad for Debian 13
 
-Insatlling Astocad in Debian 13 is a little bit tricky. So here are the changes for a clean install
+Installing Astocad in Debian 13 is a little bit tricky. So here are the changes for a clean install
 
 1.
 Prerequisites
@@ -34,6 +34,11 @@ Copy the attached CMakeLists.txt to your astrocad directory: your astrocad_sourc
 Copy the attached PolarPatternExtension.cpp to your astrocad directory: your astrocad_source/src/Mod/Part/App/PolarPatternExtension.cpp
 
 Copy the attached PolarPatternExtension.h to your astrocad directory: your astrocad_source/src/Mod/Part/App/PolarPatternExtension.h
+
+Copy the attached LinearPatternExtension.cpp to your astrocad directory: your astrocad_source/src/Mod/Part/LinearPatternExtension.cpp
+
+Copy the attached LinearPatternExtension.h to your astrocad directory: your astrocad_source/src/Mod/Part/LinearPatternExtension.h
+
 
 6
 Configure the Build
