@@ -33,6 +33,8 @@ Copy the attached CMakeLists.txt to your astrocad directory: your astrocad_sourc
 5.
 Copy the attached PolarPatternExtension.cpp to your astrocad directory: your astrocad_source/src/Mod/Part/App/PolarPatternExtension.cpp
 
+Copy the attached PolarPatternExtension.h to your astrocad directory: your astrocad_source/src/Mod/Part/App/PolarPatternExtension.h
+
 6
 Configure the Build
 It is best practice to keep your build files separated from the source code by building out-of-source.
