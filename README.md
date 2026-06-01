@@ -40,7 +40,7 @@ Copy the attached LinearPatternExtension.cpp to your astrocad directory: your as
 Copy the attached LinearPatternExtension.h to your astrocad directory: your astrocad_source/src/Mod/Part/LinearPatternExtension.h
 
 
-6
+6.
 Configure the Build
 It is best practice to keep your build files separated from the source code by building out-of-source.
 
